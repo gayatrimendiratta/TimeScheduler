@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174710506493",
+    "project_id": "time-scheduler-214bf",
+    "storage_bucket": "time-scheduler-214bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174710506493:android:1b59796da801f920f80f94",
+        "android_client_info": {
+          "package_name": "com.example.timescheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91olb-riVMbNq7jsen1rKWHpBwo9-fUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
